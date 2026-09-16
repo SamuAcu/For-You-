@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+
+# Variables de entorno
+.env
